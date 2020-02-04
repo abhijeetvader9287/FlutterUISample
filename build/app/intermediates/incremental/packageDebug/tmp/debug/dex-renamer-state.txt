@@ -1,0 +1,4 @@
+#Tue Feb 04 10:35:06 IST 2020
+base.0=/home/abhijeet/git/New POCs/Awesome_Flutter_UI/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

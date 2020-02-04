@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","flutter|lib/services.dart","flutter_ui_bundle|lib/background.dart","flutter_ui_bundle|lib/loginUi.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
